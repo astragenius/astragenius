@@ -11,4 +11,4 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=astragenius)](https://github.com/astragenius)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=astragenius&show_icons=true)](https://github.com/astragenius)
